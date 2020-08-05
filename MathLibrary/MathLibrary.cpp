@@ -54,3 +54,8 @@ unsigned fibonacci_index()
 {
 	return index_;
 }
+
+double infl() 
+{
+	return 0.5;
+}
